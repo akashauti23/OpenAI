@@ -1,5 +1,5 @@
 import openai
-openai.api_key='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'
+openai.api_key='_ __'
 
 messages = [
     {"role": "system", "content": "You are a kind helpful assistant."},
